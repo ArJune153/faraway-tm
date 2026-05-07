@@ -1,12 +1,12 @@
 <template>
   <div class="container-home">
-    <img class="img-logo" :src="require('@/assets/fara-logo.png')" alt="Background Image"/>
+    <img class="img-logo" :src="require('@/assets/j1gold.gif')" alt="Background Image"/>
     <div>    
       <span class="text1">เว็บตรงแท้ อันดับ 1</span>
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
     </div>
     <div class="button-container">
-    <a href="https://lin.ee/peBcZjt" class="custom-button1">
+    <a href="https://lin.ee/2DJPxyn" class="custom-button1">
         <i class="fas fa-user-plus"></i>  <!-- ไอคอนสมัครสมาชิก -->
         สมัครสมาชิก
     </a>
@@ -23,7 +23,7 @@
         <div class="card-container">
     <!-- Card 1 -->
     <div class="card">
-      <a href="https://lin.ee/peBcZjt">
+      <a href="https://lin.ee/2DJPxyn">
         <div class="card-description">
           <img class="img-game1"/>
           <!-- เพิ่มข้อความ "มาแรง" ที่มุมขวาบน -->
@@ -35,7 +35,7 @@
   </div>
     
     <div class="card">
-      <a href="https://lin.ee/peBcZjt">
+      <a href="https://lin.ee/2DJPxyn">
         <div class="card-description">
           <img class="img-game2"/>
           <div class="badge">HOT</div>
@@ -46,7 +46,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/peBcZjt">
+      <a href="https://lin.ee/2DJPxyn">
         <div class="card-description">
           <img class="img-game3" />
           <div class="badge">HOT</div>
@@ -57,7 +57,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/peBcZjt">
+      <a href="https://lin.ee/2DJPxyn">
         <div class="card-description">
           <img class="img-game4"/>
           <div class="badge">HOT</div>
@@ -68,7 +68,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/peBcZjt">
+      <a href="https://lin.ee/2DJPxyn">
         <div class="card-description">
           <img class="img-game5"/>
           <div class="badge">HOT</div>
@@ -79,7 +79,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/peBcZjt">
+      <a href="https://lin.ee/2DJPxyn">
         <div class="card-description">
           <img class="img-game6" />
           <div class="badge">HOT</div>
@@ -147,35 +147,35 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "149,631",
       slides: [
-        { src: 'slide1-img.jpg', alt: 'Image 3' },
-        { src: 'slide2-img.jpg', alt: 'Image 1' },
-        { src: 'slide3-img.jpg', alt: 'Image 2' },      
+        { src: 'photo_6176799786905226200_y.jpg', alt: 'Image 3' },
+        { src: '420375319_1624702368068667_6652174554953795688_n.jpg', alt: 'Image 1' },
+        { src: '421234511_7963770843638242_1140802107834476467_n.jpg', alt: 'Image 2' },      
       ],
       topUsersData : [
-      { userName: "faraa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "farab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
-      { userName: "farae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
-      { userName: "farad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "farae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
-      { userName: "farae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagaa01xx", amount: "150,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagab89xx", amount: "130,500", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagae11xx", amount: "95,200", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagad04xx", amount: "83,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagae87xx", amount: "82,000", timestamp: "31 ส.ค. 2568" },
+      { userName: "vagae35xx", amount: "78,000", timestamp: "31 ส.ค. 2568" },
     ],
     reviews : [
-      { user: "faraj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
-      { user: "faras16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
-      { user: "farae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
-      { user: "farax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
-      { user: "farao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
-      { user: "farad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
-      { user: "farad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
-      { user: "farab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
-      { user: "farat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
-      { user: "faral68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
-      { user: "farat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
-      { user: "farao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
-      { user: "faraj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
-      { user: "faraq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
-      { user: "faraz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
-      { user: "faraf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
+      { user: "vagaj23xx", text: "เว็บนี้ใช้งานง่าย ถอนเงินไวมาก", img: "photo-2568-06-02-13-24-49.jpg" },
+      { user: "vagas16xx", text: "แตกหนักจนแฟนงง ว่าไปเอาเงินมาจากไหน", img: "photo-2568-06-21-13-38-31.jpg" },
+      { user: "vagae56xx", text: "ระบบดี ไม่มีสะดุดเลย", img: "photo-2568-06-02-13-11-47.jpg" },
+      { user: "vagax88xx", text: "โปรโมชั่นคุ้มสุด ๆ เลยครับ", img: "503804955-122126012606831043-7044484449309087338-n.jpg" },
+      { user: "vagao16xx", text: "เล่นง่าย ได้เงินจริง", img: "490506081-122124348278773654-1591748651281217225-n.jpg" },
+      { user: "vagad41xx", text: "แตกจริง! ไม่ต้องลุ้นเลย เงินเข้าไวสุด ๆ 💸", img: "533961598_1465905681078900_8473607776528464666_n.jpg" },
+      { user: "vagad41xx", text: "จากหลักร้อยเป็นหลักหมื่นในคืนเดียว ว้าว!", img: "464195162_2477566235772141_6809220135929060331_n.jpg" },
+      { user: "vagab71xx", text: "รองรับ TrueWallet ด้วย สะดวกมาก", img: "504143319_2219977065123389_83092695142278008_n.jpg" },
+      { user: "vagat94xx", text: "แนะนำเพื่อน ได้โบนัสด้วย", img: "492242625_668943662417215_4482917277835435921_n.jpg" },
+      { user: "vagal68xx", text: "ดีตรงที่มีภาษาไทยครบถ้วน", img: "518366934_736143816025493_1299983234092703859_n.jpg" },
+      { user: "vagat28xx", text: "ฝากปุ๊บเงินเข้าปั๊บ", img: "533084719_1116500603710911_5818853113959217185_n.jpg" },
+      { user: "vagao71xx", text: "แทบจะถอนทุกวัน ดีจริงๆเว็บนี้!", img: "277169807-3163265690584017-8353788208641286173-n.jpg" },
+      { user: "vagaj88xx", text: "ชอบมีไลฟ์สดบอลให้ดูฟรี", img: "432694438-933306371801755-6605376483802637949-n.jpg" },
+      { user: "vagaq38xx", text: "ทีมซัพพอร์ตดูแลดีมาก", img: "444482004_7798764536813604_3664008989486408448_n.md.jpg" },
+      { user: "vagaz65xx", text: "อัตราต่อรองแฟร์สุด ๆ", img: "499992981-543532548818863-8863283426458467040-n.jpg" },
+      { user: "vagaf86xx", text: "ถอนวันละพันทุกวัน แทบไม่ต้องทำงาน", img: "503202164-2075152429640793-785701917046162087-n.jpg" },
     ],
     rwindex:0
     };
@@ -301,7 +301,7 @@ export default {
       card.innerHTML = `
       <div class="rw-profile">
         <img src="${require(`@/assets/${review.img}`)}" alt="${review.user}"/>
-        <b style="color:gold">${review.user}</b>
+        <b style="color:rgb(0, 255, 98)">${review.user}</b>
       </div>
       <div class="rw-review-text">${review.text}</div>
       <div class="rw-stars">★★★★★</div>
@@ -332,7 +332,7 @@ export default {
       const randomBankIndex = Math.floor(Math.random() * bankLogos.length);
       const randomDigits = Math.floor(Math.random() * 100).toString().padStart(2, '0');
       const randomChar = String.fromCharCode(Math.floor(Math.random() * 26) + 97);
-      const user = `fara${randomChar}${randomDigits}xx`;
+      const user = `vaga${randomChar}${randomDigits}xx`;
 
       const now = new Date();
 
@@ -453,13 +453,13 @@ body {
       flex-direction: column;
       background-color: rgba(18,34,41,1);
       border-radius: 8px;
-      border: 0.5px solid rgb(230, 87, 87);
+      border: 0.5px solid rgb(11, 175, 85);
       padding: 10px;
       position: relative;
       overflow: hidden;
       opacity: 0;
       animation: rw-slideUp 0.5s ease-out forwards;
-      box-shadow: 0 0 9px rgba(245, 135, 135, 0.6);
+      box-shadow: 0 0 9px rgba(0, 255, 98, 0.6);
     }
 
     .rw-profile {
@@ -473,7 +473,7 @@ body {
       height: 50px;
       border-radius: 50%;
       margin-right: 10px;
-      border: 2px solid rgb(230, 87, 87);
+      border: 2px solid #00ff62;
     }
 
     .rw-review-text {
@@ -505,7 +505,7 @@ body {
   display: flex;
   align-items: center;
   background-color: #fff;
-  border: 1px solid rgb(255, 208, 0); /* ขอบสีเขียว */
+  border: 1px solid rgb(0, 255, 115); /* ขอบสีเขียว */
   border-radius: 30px; /* ให้มุมโค้ง */
   padding: 10px 30px;
   font-size: 16px;
@@ -635,8 +635,8 @@ body {
 
 /* สไตล์สำหรับรูป */
 .img-logo {
-  max-width: 60%;
-  filter: drop-shadow(0 0 20px rgb(255, 230, 0));
+  max-width: 55%;
+  filter: drop-shadow(0 0 20px rgb(0, 255, 106));
 }
 
 /* ข้อความที่กระพริบ */
@@ -651,7 +651,7 @@ body {
   margin-bottom: 1.5rem;
   animation: blink 1s infinite alternate; /* ทำให้กระพริบ */
   animation-delay: 2s;
-   text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8), 0 0 25px gold, 0 0 5px darkgoldenrod;
+  text-shadow: 2px 2px 5px rgba(255, 215, 0, 0.8), 0 0 25px gold, 0 0 5px darkgoldenrod;
 }
 
 .text2{
@@ -708,7 +708,7 @@ body {
   background-color: rgba(18, 34, 41, 0.3);
   border-radius: 12px;
   overflow: hidden;
-  box-shadow: 0 4px 10px rgba(255, 141, 141, 0.7);
+  box-shadow: 0 4px 10px rgba(0, 255, 106, 0.8); /* เงาสีทอง */
   display: flex;
   flex-direction: column-reverse;
   align-items: center; /* จัดแนวกลางแนวตั้ง */
@@ -738,7 +738,7 @@ body {
   }
 
     .amount {
-  color: rgb(255, 208, 0); /* สีทอง */
+  color: rgb(0, 255, 98); /* สีทอง */
   font-weight: bold; /* ตัวหนา */
 }
 
@@ -750,7 +750,7 @@ body {
       margin: 5px 0;
       background-color: rgba(18, 34, 41, 1);
       border-radius: 8px;
-      border: 0.5px solid rgb(255, 101, 101);
+      border: 0.5px solid green; /* เส้นขอบสีทอง */
       display: flex;
       justify-content: space-between;
       overflow: hidden;
@@ -820,14 +820,14 @@ body {
       width: 20px;
       height: 20px;
       border: 3px solid transparent;
-      border-top: 3px solid rgb(247, 120, 98); /* ขอบบนหมุนสีทอง */
+      border-top: 3px solid green; /* ขอบบนหมุนสีทอง */
       border-radius: 50%;
       animation: spin 1s linear infinite;
     }
 
     .check-icon {
       font-size: 20px;
-      color: rgb(241, 75, 75);
+      color: rgb(7, 197, 7);
       display: none;
     }
 
@@ -1031,8 +1031,8 @@ body {
       margin-bottom: 2.25rem;
       overflow: hidden;
       border-radius: 15px;
-      border: 2px solid rgb(255, 90, 90);
-      box-shadow: 0 0 20px rgba(255, 17, 0, 0.6);
+      border: 2px solid rgb(0, 255, 98);
+      box-shadow: 0 0 20px rgba(0, 255, 76, 0.6);
     }
 
     .slider {
@@ -1066,13 +1066,13 @@ body {
       width: 12px;
       height: 12px;
       border-radius: 50%;
-      background-color: #fa4040;
+      background-color: #00ff2a;
       cursor: pointer;
       transition: background-color 0.3s ease;
     }
 
     .dot.active {
-      background-color: #ffa4a4;
+      background-color: #00ff2a;
     }
     
     .ranking-container {
@@ -1085,7 +1085,7 @@ body {
       width: 100%;
       max-width: 800px; /* ความกว้างสูงสุด */
       overflow: hidden;
-      box-shadow: 0 4px 10px rgba(255, 141, 141, 0.7);
+      box-shadow: 0 4px 10px rgba(0, 255, 106, 0.7);
       box-sizing: border-box;
       text-align: left;
     }
@@ -1094,7 +1094,7 @@ body {
       padding: 10px 15px;
       background-color: rgba(18, 34, 41, 1);
       border-radius: 8px;
-      border: 0.5px solid rgb(255, 101, 101);
+      border: 0.5px solid green;
       display: flex;
       justify-content: space-between;
       overflow: hidden;
@@ -1113,7 +1113,7 @@ body {
       background: linear-gradient(
         120deg,
         transparent 0%,
-        rgba(255, 0, 0, 0.2) 50%,
+        rgba(255, 215, 0, 0.2) 50%,
         transparent 100%
       );
       transform: skewX(-20deg);
